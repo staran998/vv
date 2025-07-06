@@ -328,6 +328,8 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 
 📡广东地区,#genre#
 
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
+广东体育,http://k.061899.xyz/m.php?id=gdty
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
 广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
@@ -775,14 +777,14 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠备用,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 有线18台,https://dbkzprpiusvoq.cloudfront.net:443/racing-gps/ch603-3-hls.m3u8
 有线630,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
 赛马频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB J2台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus01.flv
 TVB J2台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB J2台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus02.flv
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-
-TVB翡翠,http://aplay.seres.cn/live/d7a1ba71b4680f9f80e73f29bbe6a22e.m3u8
+无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 
 鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
 鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
@@ -792,28 +794,12 @@ TVB翡翠,http://aplay.seres.cn/live/d7a1ba71b4680f9f80e73f29bbe6a22e.m3u8
 香港J2台,http://bx.757888.xyz/api.php?id=tvbp
 香港無線,http://bx.757888.xyz/api.php?id=wxxw
 
-
-高清中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-高清資訊,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-高清香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
-高清翡翠,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
-高清無線,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
-
-
 ----------------------------------------------------------------------------------------------------------------------------
 ☘️湾湾测试_6688,#genre#
 
-中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
-中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw1.m3u8
-中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw21.m3u8
 
-寰宇新闻,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
-寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw1.m3u8
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8$订阅源
-东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-Hoy78台,https://gdfire2.67890123.cn:8088/live/hoy78.m3u8
-Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw1.m3u8
 
 民视新聞,rtmp://f13h.mine.nu/sat/tv051
 台视新聞,rtmp://f13h.mine.nu/sat/tv071
